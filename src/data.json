@@ -251,15 +251,7 @@
     "description": "​Cloud-based pharmacy management platform",
     "connector": true
   },
-  {
-    "name": "Junction",
-    "url": "https://www.keragon.com/integrations/junction",
-    "tag": "Connector available",
-    "category": "Labs-pharmacy",
-    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6814d88a3e6057fe513cfefd_JunctionIconPurple.png",
-    "description": "Nationwide lab testing & device data platform",
-    "connector": true
-  },
+
   {
     "name": "DHA Laboratory",
     "url": "https://www.keragon.com/integrations/dha-laboratory",
@@ -801,8 +793,7 @@
     "description": "Chiropractic EHR & practice management software.",
     "connector": false
   },
-
-   {
+  {
     "name": "Clinicomp",
     "tag": "Request Integration",
     "category": "EHR",
@@ -810,7 +801,7 @@
     "description": "Comprehensive EHR software.",
     "connector": false
   },
-    {
+  {
     "name": "CGM Aprima",
     "tag": "Request Integration",
     "category": "EHR",
@@ -818,8 +809,7 @@
     "description": "EHR and Practice Management.",
     "connector": false
   },
- 
-      {
+  {
     "name": "CollaborateMD",
     "tag": "Request Integration",
     "category": "EHR",
@@ -827,7 +817,7 @@
     "description": "Cloud-based Medical Practice Management.",
     "connector": false
   },
-    {
+  {
     "name": "BestNotes",
     "url": "https://www.keragon.com/integrations/bestnotes",
     "tag": "Connector available",
@@ -836,7 +826,7 @@
     "description": "EHR and CRM software for behavioral health treatment.",
     "connector": true
   },
-      {
+  {
     "name": "Ritten",
     "url": "https://www.keragon.com/integrations/ritten",
     "tag": "Connector available",
@@ -845,7 +835,7 @@
     "description": "AI-powered EMR software for behavioral health.",
     "connector": true
   },
-      {
+  {
     "name": "PtEverywhere",
     "url": "https://www.keragon.com/integrations/pteverywhere",
     "tag": "Connector available",
@@ -854,7 +844,7 @@
     "description": "EMR & Physical Therapy Practice Management Software",
     "connector": true
   },
-        {
+  {
     "name": "Edvak",
     "url": "https://www.keragon.com/integrations/pteverywhere",
     "tag": "Connector available",
@@ -863,7 +853,7 @@
     "description": "AI Assisted EHR & Practice Management Software ",
     "connector": true
   },
-    {
+  {
     "name": "Symplast",
     "tag": "Request Integration",
     "category": "EHR",
@@ -871,7 +861,7 @@
     "description": "Practice management platform for plastic surgery.",
     "connector": false
   },
-    {
+  {
     "name": "Experity",
     "tag": "Request Integration",
     "category": "EHR",
@@ -879,7 +869,7 @@
     "description": "Urgent Care EMR & PMS.",
     "connector": false
   },
-    {
+  {
     "name": "Phoenix Ortho",
     "tag": "Request Integration",
     "category": "EHR",
@@ -887,7 +877,7 @@
     "description": "EHR for Orthopedic Practices.",
     "connector": false
   },
-     {
+  {
     "name": "Altera Touchworks",
     "tag": "Request Integration",
     "category": "EHR",
@@ -895,7 +885,7 @@
     "description": "EHR for large ambulatory practices.",
     "connector": false
   },
-     {
+  {
     "name": "Picis Surgery Management",
     "tag": "Request Integration",
     "category": "EHR",
@@ -903,7 +893,7 @@
     "description": "Patient Management for the Surgical Journey.",
     "connector": false
   },
-      {
+  {
     "name": "Codonix",
     "tag": "Request Integration",
     "category": "EHR",
@@ -911,7 +901,7 @@
     "description": "EMR, Charting & Coding Software.",
     "connector": false
   },
-      {
+  {
     "name": "AllMeds EMR",
     "tag": "Request Integration",
     "category": "EHR",
@@ -919,7 +909,7 @@
     "description": "EMR for Surgical Specialists.",
     "connector": false
   },
-     {
+  {
     "name": "Clinix",
     "tag": "Request Integration",
     "category": "EHR",
@@ -927,7 +917,7 @@
     "description": "Medical practice management software.",
     "connector": false
   },
-      {
+  {
     "name": "eIVF",
     "tag": "Request Integration",
     "category": "EHR",
@@ -935,7 +925,7 @@
     "description": "Fertility practice management EMR.",
     "connector": false
   },
-        {
+  {
     "name": "McKesson",
     "tag": "Request Integration",
     "category": "EHR",
@@ -943,7 +933,7 @@
     "description": "Medical supplies, pharmacy services & specialty EHR.",
     "connector": false
   },
-       {
+  {
     "name": "Advanced Data Systems",
     "tag": "Request Integration",
     "category": "EHR",
@@ -951,7 +941,7 @@
     "description": "EHR & Practice Management Software.",
     "connector": false
   },
-     {
+  {
     "name": "Benchmark EHR",
     "tag": "Request Integration",
     "category": "EHR",
@@ -959,7 +949,7 @@
     "description": "Patient-first healthcare solutions.",
     "connector": false
   },
-      {
+  {
     "name": "Glenwood GlaceEMR",
     "tag": "Request Integration",
     "category": "EHR",
@@ -967,7 +957,7 @@
     "description": "EHR and Practice Management.",
     "connector": false
   },
-     {
+  {
     "name": "Renesan",
     "tag": "Request Integration",
     "category": "EHR",
@@ -975,7 +965,7 @@
     "description": "Renal EHR software.",
     "connector": false
   },
-     {
+  {
     "name": "FirstCloudEMR",
     "tag": "Request Integration",
     "category": "EHR",
@@ -983,7 +973,7 @@
     "description": "Cloud-based electronic medical record software.",
     "connector": false
   },
-     {
+  {
     "name": "Champ Software Nightingale Notes",
     "tag": "Request Integration",
     "category": "EHR",
@@ -991,7 +981,7 @@
     "description": "EHR software for public health documentation.",
     "connector": false
   },
-    {
+  {
     "name": "Mellowood IDEAS EMR",
     "tag": "Request Integration",
     "category": "EHR",
@@ -999,7 +989,7 @@
     "description": "Fertility practice management EMR.",
     "connector": false
   },
-     {
+  {
     "name": "Thornberry nDoc",
     "tag": "Request Integration",
     "category": "EHR",
@@ -1007,7 +997,7 @@
     "description": "Home Health and Hospice EMR.",
     "connector": false
   },
-     {
+  {
     "name": "HENO",
     "tag": "Request Integration",
     "category": "EHR",
@@ -1015,7 +1005,7 @@
     "description": "EMR software for medical practices.",
     "connector": false
   },
-      {
+  {
     "name": "Osmind",
     "tag": "Request Integration",
     "category": "EHR",
@@ -1023,7 +1013,7 @@
     "description": "Phychiatry and Mental Health EHR.",
     "connector": false
   },
-      {
+  {
     "name": "Clinicient",
     "tag": "Request Integration",
     "category": "EHR",
@@ -1031,7 +1021,7 @@
     "description": "EMR & Rehab Therapy Software.",
     "connector": false
   },
-      {
+  {
     "name": "TruBridge",
     "tag": "Request Integration",
     "category": "EHR",
@@ -1039,16 +1029,8 @@
     "description": "EHR & Revenue Cycle Management software.",
     "connector": false
   },
-   {
-    "name": "pVerify",
-    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb548e3cb2cba82a33e5f_6400752c1247f20ce90734bc_pv-logo-hi-res_png.jpeg",
-    "url": "https://www.keragon.com/integrations/pverify",
-    "category": "Insurance-billing",
-    "tag": "Connector available",
-    "description": "Healthcare insurance verification and authorization.",
-    "connector": true
-  },
-      {
+ 
+  {
     "name": "Eligible",
     "tag": "Request Integration",
     "category": "Insurance-billing",
@@ -1056,7 +1038,7 @@
     "description": "Healthcare billing API integration service.",
     "connector": false
   },
-     {
+  {
     "name": "Envi by IOS",
     "tag": "Request Integration",
     "category": "Insurance-billing",
@@ -1064,7 +1046,7 @@
     "description": "Procure-to-pay software for healthcare facilities.",
     "connector": false
   },
-      {
+  {
     "name": "Apero",
     "tag": "Request Integration",
     "category": "Insurance-billing",
@@ -1072,7 +1054,7 @@
     "description": "All-in-one billing & operations workflows.",
     "connector": false
   },
-    {
+  {
     "name": "InstaMed",
     "tag": "Request Integration",
     "category": "Insurance-billing",
@@ -1080,7 +1062,7 @@
     "description": "Healthcare payments platform for providers and patients.",
     "connector": false
   },
-    {
+  {
     "name": "Salucro",
     "tag": "Request Integration",
     "category": "Insurance-billing",
@@ -1088,7 +1070,7 @@
     "description": "Healthcare payment solutions and financial engagement.",
     "connector": false
   },
-   {
+  {
     "name": "Opkit",
     "tag": "Request Integration",
     "category": "Insurance-billing",
@@ -1096,7 +1078,7 @@
     "description": "Automates prior authorizations for healthcare providers.",
     "connector": false
   },
-   {
+  {
     "name": "MedEvolve",
     "tag": "Request Integration",
     "category": "Insurance-billing",
@@ -1112,7 +1094,7 @@
     "description": "At-home health testing kits.",
     "connector": false
   },
-    {
+  {
     "name": "Labcorp",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67a74dfcc221c78d1b0760de_labcorp.svg",
     "category": "Labs-pharmacy",
@@ -1120,7 +1102,7 @@
     "description": "Health diagnostics and lab testing services.",
     "connector": false
   },
-     {
+  {
     "name": "Quest Diagnostics",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1128,7 +1110,7 @@
     "description": "Medical lab services and diagnostic testing.",
     "connector": false
   },
-       {
+  {
     "name": "Ordrs",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1136,7 +1118,7 @@
     "description": "Lab testing software.",
     "connector": false
   },
-        {
+  {
     "name": "PillPack",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1144,7 +1126,7 @@
     "description": "Full-service online pharmacy.",
     "connector": false
   },
-        {
+  {
     "name": "Truepill",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1152,43 +1134,27 @@
     "description": "B2B Pharmacy.",
     "connector": false
   },
-        {
+  {
     "name": "Junction",
-     "url": "https://www.keragon.com/integrations/junction",
+    "url": "https://www.keragon.com/integrations/junction",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6814d88a3e6057fe513cfefd_JunctionIconPurple.png",
     "category": "Labs-pharmacy",
     "tag": "Connector available",
     "description": "Nationwide lab testing & device data platform",
     "connector": true
   },
-      {
+  {
     "name": "DHA Laboratory",
-         "url": "https://www.keragon.com/integrations/dha-laboratory",
+    "url": "https://www.keragon.com/integrations/dha-laboratory",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682df63314d17cf6232cca93_dha%20lab%20logo.jpeg",
     "category": "Labs-pharmacy",
     "tag": "Connector available",
     "description": "Diagnostic laboratory services provider.",
     "connector": true
   },
-      {
-    "name": "MediCircle",
-     "url": "https://www.keragon.com/integrations/medicircle",
-    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682f0785228026cc9d0d146d_MediCircle%20Logo.jpeg",
-    "category": "Labs-pharmacy",
-    "tag": "Connector available",
-    "description": "Cancer drug donation and redistribution platform",
-    "connector": true
-  },
-      {
-    "name": "MediCircle",
-     "url": "https://www.keragon.com/integrations/medicircle",
-    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682f0785228026cc9d0d146d_MediCircle%20Logo.jpeg",
-    "category": "Labs-pharmacy",
-    "tag": "Connector available",
-    "description": "Cancer drug donation and redistribution platform",
-    "connector": true
-  },
-         {
+
+ 
+  {
     "name": "Curexa",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1196,7 +1162,7 @@
     "description": "Online pharmacy and healthcare services provider.",
     "connector": false
   },
-         {
+  {
     "name": "DoseSpot",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1204,7 +1170,7 @@
     "description": "E-prescribing software for healthcare providers.",
     "connector": false
   },
-          {
+  {
     "name": "Getlabs",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1212,7 +1178,7 @@
     "description": "Mobile lab testing service.",
     "connector": false
   },
-         {
+  {
     "name": "NimbleRx",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1220,7 +1186,7 @@
     "description": "Online prescription delivery service.",
     "connector": false
   },
-          {
+  {
     "name": "CareSend",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1228,7 +1194,7 @@
     "description": "Secure document delivery for healthcare professionals.",
     "connector": false
   },
-           {
+  {
     "name": "Medmo",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1236,7 +1202,7 @@
     "description": "Medical imaging scheduling and cost comparison platform.",
     "connector": false
   },
-            {
+  {
     "name": "Alto Pharmacy",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1244,7 +1210,7 @@
     "description": "Alto is a full-service pharmacy that delivers prescr...",
     "connector": false
   },
-             {
+  {
     "name": "Tomorrow Health",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1252,7 +1218,7 @@
     "description": "Home medical equipment and care coordination.",
     "connector": false
   },
-               {
+  {
     "name": "LetsGetChecked",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb41d4e0928296af83e77_64007e445886227ed26d755f_lets.png",
     "category": "Labs-pharmacy",
@@ -1260,7 +1226,7 @@
     "description": "Prescription delivery and pharmacy services.",
     "connector": false
   },
-                {
+  {
     "name": "Akumin",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb4b94aadb3a714abdf24_64007e9c2bd1b6f69e813d24_akumin.jpeg",
     "category": "Labs-pharmacy",
@@ -1268,7 +1234,7 @@
     "description": "Medical imaging and radiology services provider.",
     "connector": false
   },
-               {
+  {
     "name": "TridentCare",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1276,7 +1242,7 @@
     "description": "Mobile diagnostic services and medical care.",
     "connector": false
   },
-               {
+  {
     "name": "CaryRx",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1284,7 +1250,7 @@
     "description": "Online pharmacy providing delivery services.",
     "connector": false
   },
-               {
+  {
     "name": "Orchard LIS",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1292,7 +1258,7 @@
     "description": "Laboratory Information Systems provider.",
     "connector": false
   },
-               {
+  {
     "name": "DNAvisit",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "category": "Labs-pharmacy",
@@ -1300,4 +1266,148 @@
     "description": "Genetic ancestry & health insights platform.",
     "connector": false
   },
+   {
+    "name": "Change Healthcare",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Revenue and payment provider.",
+    "connector": false
+  },
+   {
+    "name": "Doximity",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Professional network for medical professionals.",
+    "connector": false
+  },
+   {
+    "name": "Phreesia",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f2cfe8dc94692feb5408c0_phreesia.png",
+    "description": "Automates patient intake for healthcare providers.",
+    "connector": false
+  },
+   {
+    "name": "Mend",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Virtual care platform for healthcare providers.",
+    "connector": false
+  },
+    {
+    "name": "Luma Health",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Patient engagement platform for healthcare providers",
+    "connector": false
+  },
+    {
+    "name": "Next Patient",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Front office automation for medical practices.",
+    "connector": false
+  },
+    {
+    "name": "Patientpop",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Healthcare practice growth and management.",
+    "connector": false
+  },
+   {
+    "name": "DispatchHealth",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "In-home urgent medical care services.",
+    "connector": false
+  },
+    {
+    "name": "Sprinter Health",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Home health services including lab tests and vitals.",
+    "connector": false
+  },
+    {
+    "name": "MedArrive",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Healthcare services delivered to your home.",
+    "connector": false
+  },
+    {
+    "name": "Axle Health",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Healthcare services delivered to your home.",
+    "connector": false
+  },
+    {
+    "name": "RubiconMD",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Connects primary care with specialist consultations online.",
+    "connector": false
+  },
+    {
+    "name": "DoctorConnect",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f2d0336344ed1d79a73f3c_doctorconnect.png",
+    "description": "Patient engagement & communication platform.",
+    "connector": false
+  },
+    {
+    "name": "Patient Communicator",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f2d045fdc953e524335024_patientcommunicator.png",
+    "description": "Automates patient communication for clinics.",
+    "connector": false
+  },
+     {
+    "name": "Doctible",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f2d045fdc953e524335024_patientcommunicator.png",
+    "description": "Practice management and patient engagement.",
+    "connector": false
+  },
+    {
+    "name": "PatientTrak",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f2d045fdc953e524335024_patientcommunicator.png",
+    "description": "Patient engagement and tracking platform.",
+    "connector": false
+  },
+     {
+    "name": "Medical Check In",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f2d045fdc953e524335024_patientcommunicator.png",
+    "description": "Automates patient check-in process.",
+    "connector": false
+  },
+    {
+    "name": "Qualiphy",
+    "tag": "Request Integration",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6924340fc3e129e3c6081ddd_qualiphy_logo.png",
+    "description": "On-demand telehealth for MedSpas & clinics",
+    "connector": false
+  }
 ]
