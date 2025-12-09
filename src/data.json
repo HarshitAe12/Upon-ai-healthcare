@@ -801,14 +801,7 @@
     "description": "Chiropractic EHR & practice management software.",
     "connector": false
   },
-   {
-    "name": "Clinicomp",
-    "tag": "Request Integration",
-    "category": "EHR",
-    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
-    "description": "Comprehensive EHR software.",
-    "connector": false
-  },
+
    {
     "name": "Clinicomp",
     "tag": "Request Integration",
@@ -825,14 +818,7 @@
     "description": "EHR and Practice Management.",
     "connector": false
   },
-    {
-    "name": "CollaborateMD",
-    "tag": "Request Integration",
-    "category": "EHR",
-    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
-    "description": "Cloud-based Medical Practice Management.",
-    "connector": false
-  },
+ 
       {
     "name": "CollaborateMD",
     "tag": "Request Integration",
