@@ -47,23 +47,24 @@
   transition: 0.2s ease;
 }
 .load-more-btn {
-  margin: 20px auto;
   display: block;
-  padding: 12px 20px;
-  font-size: 16px;
-  font-weight: 600;
-  background: #007bff;
-  color: white;
+  margin: 20px auto;
+  background: none;
   border: none;
-  border-radius: 8px;
+  color: #007bff;
+  font-size: 18px;
+  font-weight: 600;
   cursor: pointer;
-  transition: 0.2s ease;
+  text-decoration: underline;
+  padding: 0;
+  transition: 0.25s ease;
 }
 
 .load-more-btn:hover {
-  background: #005fcc;
-  transform: translateY(-3px);
+  color: #005fcc;
+  transform: translateY(-2px);
 }
+
 
 .search-input:focus {
   border-color: #007bff;
