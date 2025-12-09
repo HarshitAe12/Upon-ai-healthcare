@@ -165,7 +165,7 @@
     "name": "pVerify",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb548e3cb2cba82a33e5f_6400752c1247f20ce90734bc_pv-logo-hi-res_png.jpeg",
     "url": "https://www.keragon.com/integrations/pverify",
-    "category": "insurance-billing",
+    "category": "Insurance-billing",
     "tag": "Connector available",
     "description": "Healthcare insurance verification and authorization.",
     "connector": true
@@ -174,7 +174,7 @@
     "name": "AgencyBloc",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/66dc453379be76475947a4ae_img.jpeg",
     "url": "https://www.keragon.com/integrations/agencybloc",
-    "category": "insurance-billing",
+    "category": "Insurance-billing",
     "tag": "Connector available",
     "description": "Insurance agency management software.",
     "connector": true
@@ -183,7 +183,7 @@
     "name": "Candidhealth",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67ac440572589e033c0fada2_candid_health_logo.jpeg",
     "url": "https://www.keragon.com/integrations/candidhealth",
-    "category": "insurance-billing",
+    "category": "Insurance-billing",
     "tag": "Connector available",
     "description": "Revenue cycle automation platform.",
     "connector": true
@@ -192,7 +192,7 @@
     "name": "Balance (billing)",
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "url": "https://www.keragon.com/integrations/balance-billing-ec2cd",
-    "category": "insurance-billing",
+    "category": "Insurance-billing",
     "tag": "Connector available",
     "description": "Invoice & payment management software.",
     "connector": true
@@ -201,7 +201,7 @@
     "name": "Bill",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682f2ce453f4135e399b5985_Bill%20Sqaure%20logo.png",
     "url": "https://www.keragon.com/integrations/bill",
-    "category": "insurance-billing",
+    "category": "Insurance-billing",
     "tag": "Connector available",
     "description": "Cloud-based financial operations platform",
     "connector": true
@@ -210,7 +210,7 @@
     "name": "Fullscript",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6853df13056eaf78bbec072d_download%20(1).png",
     "url": "https://www.keragon.com/integrations/fullscript",
-    "category": "labs-pharmacy",
+    "category": "Labs-pharmacy",
     "tag": "Connector available",
     "description": "Online dispensary for health & wellness supplements.",
     "connector": true
@@ -219,7 +219,7 @@
     "name": "Rupa Health",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb46fd876ef5f7a21fc76_6400775c7efc0c2f6cbab12b_rupa.jpeg",
     "url": "https://www.keragon.com/integrations/rupa-health",
-    "category": "labs-pharmacy",
+    "category": "Labs-pharmacy",
     "tag": "Connector available",
     "description": "Simplifies ordering lab tests for healthcare providers.",
     "connector": true
@@ -227,7 +227,7 @@
    {
     "name": "Health Gorilla",
     "url": "https://www.keragon.com/integrations/health-gorilla",
-    "category": "labs-pharmacy",
+    "category": "Labs-pharmacy",
     "tag": "Connector available",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/677fced48294d8fdb2482f7a_655d622cda16f9cfd90031f2_Health%20Gorilla%20logomark_standard.png",
     "description": "Healthcare data aggregation platform.",
@@ -237,7 +237,7 @@
     "name": "Photon Health",
     "url": "https://www.keragon.com/integrations/photon-health",
     "tag": "Connector available",
-    "category": "labs-pharmacy",
+    "category": "Labs-pharmacy",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb49d5e7068d5bf556470_64f990cf012119ea611b106d_p-icon-dark.png",
     "description": "Modern prescribing tools.",
     "connector": true
@@ -246,7 +246,7 @@
     "name": "DRX",
     "url": "https://www.keragon.com/integrations/drx",
     "tag": "Connector available",
-    "category": "labs-pharmacy",
+    "category": "Labs-pharmacy",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67f7a2bf0e375402024f771c_DRX%20pharmacy%20logo.jpeg",
     "description": "​Cloud-based pharmacy management platform",
     "connector": true
@@ -255,7 +255,7 @@
     "name": "Junction",
     "url": "https://www.keragon.com/integrations/junction",
     "tag": "Connector available",
-    "category": "labs-pharmacy",
+    "category": "Labs-pharmacy",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6814d88a3e6057fe513cfefd_JunctionIconPurple.png",
     "description": "Nationwide lab testing & device data platform",
     "connector": true
@@ -264,7 +264,7 @@
     "name": "DHA Laboratory",
     "url": "https://www.keragon.com/integrations/dha-laboratory",
     "tag": "Connector available",
-    "category": "labs-pharmacy",
+    "category": "Labs-pharmacy",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682df63314d17cf6232cca93_dha%20lab%20logo.jpeg",
     "description": "Diagnostic laboratory services provider.",
     "connector": true
@@ -273,7 +273,7 @@
     "name": "MediCircle",
     "url": "https://www.keragon.com/integrations/medicircle",
     "tag": "Connector available",
-    "category": "labs-pharmacy",
+    "category": "Labs-pharmacy",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682f0785228026cc9d0d146d_MediCircle%20Logo.jpeg",
     "description": "Cancer drug donation and redistribution platform",
     "connector": true
@@ -282,7 +282,7 @@
     "name": "Tellescope",
     "url": "https://www.keragon.com/integrations/tellescope",
     "tag": "Connector available",
-    "category": "patient-engagement",
+    "category": "Patient-engagement",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c05e3822c3c7963fe3eda_tellescope.png",
     "description": "Patient Relationship Management platform.",
     "connector": true
@@ -291,7 +291,7 @@
     "name": "Braze",
     "url": "https://www.keragon.com/integrations/braze",
     "tag": "Connector available",
-    "category": "patient-engagement",
+    "category": "Patient-engagement",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/66dc4501b800c544bc2abee6_image.jpeg",
     "description": "Customer engagement platform.",
     "connector": true
@@ -300,7 +300,7 @@
     "name": "Zocdoc",
     "url": "https://www.keragon.com/integrations/zocdoc",
     "tag": "Connector available",
-    "category": "patient-engagement",
+    "category": "Patient-engagement",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67fd033be3bc311e2f3eca2a_zee_rgb.png",
     "description": "Book doctor appointments online easily.",
     "connector": true
@@ -309,7 +309,7 @@
     "name": "Office Ally's Intake Pro",
     "url": "https://www.keragon.com/integrations/officeally-intakepro",
     "tag": "Connector available",
-    "category": "patient-engagement",
+    "category": "Patient-engagement",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f2d020760386ccf72c257b_officeally.png",
     "description": "Online patient intake & management.",
     "connector": true
@@ -318,7 +318,7 @@
     "name": "GatherUp",
     "url": "https://www.keragon.com/integrations/gatherup",
     "tag": "Connector available",
-    "category": "patient-engagement",
+    "category": "Patient-engagement",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/66dc44bdc9315c427efc901f_image.jpeg",
     "description": "Collect and manage customer reviews.",
     "connector": true
@@ -327,7 +327,7 @@
     "name": "Qualiphy",
     "url": "https://www.keragon.com/integrations/qualiphy",
     "tag": "Connector available",
-    "category": "patient-engagement",
+    "category": "Patient-engagement",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6924340fc3e129e3c6081ddd_qualiphy_logo.png",
     "description": "On-demand telehealth for MedSpas & clinics",
     "connector": true
@@ -336,7 +336,7 @@
     "name": "Nexhealth",
     "url": "https://www.keragon.com/integrations/qualiphy",
     "tag": "Connector available",
-    "category": "patient-engagement",
+    "category": "Patient-engagement",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/686fd6b0939372c053a25f2b_download%20(1).png",
     "description": "Healthcare management and patient communication platform.",
     "connector": true
@@ -345,7 +345,7 @@
     "name": "Welkin Health",
     "url": "https://www.keragon.com/integrations/integrations/welkin-health",
     "tag": "Connector available",
-    "category": "ECR",
+    "category": "EHR",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6751b017bf96a9449f232b3a_welkinhealth.jpeg",
     "description": "Digital health platform for patient management.",
     "connector": true
@@ -354,7 +354,7 @@
     "name": "Cliniko",
     "url": "https://www.keragon.com/integrations/integrations/integrations/cliniko",
     "tag": "Connector available",
-    "category": "ECR",
+    "category": "EHR",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/678fdd524f5c3ace7fe5c93a_cliniko.jpeg",
     "description": "Online booking & management for clinics.",
     "connector": true
@@ -363,7 +363,7 @@
     "name": "Nextech",
     "url": "https://www.keragon.com/integrations/integrations/integrations/integrations/nextech",
     "tag": "Connector available",
-    "category": "ECR",
+    "category": "EHR",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6901f00376ab784740247725_nextech.png",
     "description": "Electronic health records management system.",
     "connector": true
@@ -393,14 +393,6 @@
     "connector": false
   },
     {
-    "name": "Veradigm (Allscripts)",
-    "tag": "Request Integration",
-    "category": "EHR",
-    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
-    "description": "Electronic health records management system.",
-    "connector": false
-  },
-      {
     "name": "Veradigm (Allscripts)",
     "tag": "Request Integration",
     "category": "EHR",

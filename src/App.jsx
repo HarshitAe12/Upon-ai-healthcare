@@ -4,6 +4,7 @@ import data from "./data.json";
 
 const App = () => {
   const [filters, setFilters] = useState([]);
+  const [searchTerm, setSearchTerm] = useState("");
 
   const categories = [...new Set(data.map(item => item.category))];
 
@@ -14,23 +15,23 @@ const App = () => {
         : [...prev, category]
     );
   };
+
   const handleCardClick = (item) => {
-  if (item.connector === false) {
-    window.parent.postMessage(
-  { openGHL: true, itemName: item.name },
-  "*" // or the exact origin of the parent
-);
+    if (item.connector === false) {
+      window.parent.postMessage(
+        { openGHL: true, itemName: item.name },
+        "*"
+      );
+    } else {
+      window.open(item.url, "_blank");
+    }
+  };
 
-   
-  } else {
-   
-    window.open(item.url, "_blank");
-  }
-};
-
-
-  const filteredData =
-    filters.length === 0 ? data : data.filter(item => filters.includes(item.category));
+  const filteredData = data.filter(item => {
+    const matchesFilter = filters.length === 0 || filters.includes(item.category);
+    const matchesSearch = item.name.toLowerCase().includes(searchTerm.toLowerCase().trim());
+    return matchesFilter && matchesSearch;
+  });
 
   return (
     <div className="filter-layout">
@@ -38,6 +39,16 @@ const App = () => {
       {/* Sidebar */}
       <aside className="sidebar">
         <h3>Filters</h3>
+
+        {/* Styled Search Bar */}
+        <input
+          type="text"
+          placeholder="🔍 Search by name..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          className="search-input"
+        />
+
         {categories.map(category => (
           <label key={category} className="category">
             <input
@@ -52,22 +63,24 @@ const App = () => {
 
       {/* Cards */}
       <div className="cards-container">
-        {filteredData.map(item => (
-          <div
-            className="card #button-o0UgIxf7i2"
-            key={item.name}
-            onClick={() => handleCardClick(item)}
-            style={{ cursor: "pointer" }}
-          >
-            <img src={item.img} alt={item.name} />
-            <h4>{item.name}</h4>
-            <p>{item.description}</p>
-            <span className="tag">{item.tag}</span>
-          </div>
-        ))}
+        {filteredData.length > 0 ? (
+          filteredData.map(item => (
+            <div
+              className="card #button-o0UgIxf7i2"
+              key={item.name}
+              onClick={() => handleCardClick(item)}
+              style={{ cursor: "pointer" }}
+            >
+              <img src={item.img} alt={item.name} />
+              <h4>{item.name}</h4>
+              <p>{item.description}</p>
+              <span className="tag">{item.tag}</span>
+            </div>
+          ))
+        ) : (
+          <p className="no-results">No items found. Try a different search.</p>
+        )}
       </div>
-
-
     </div>
   );
 };
