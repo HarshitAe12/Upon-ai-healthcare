@@ -51,11 +51,11 @@
   margin: 20px auto;
   background: none;
   border: none;
-  color: #007bff;
+  color: #003f70;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   cursor: pointer;
-  text-decoration: underline;
+  text-decoration: none;
   padding: 0;
   transition: 0.25s ease;
 }
@@ -67,7 +67,7 @@
 
 
 .search-input:focus {
-  border-color: #007bff;
+  border-color: #003f70;
   outline: none;
   box-shadow: 0 0 6px rgba(0,122,255,0.25);
 }

@@ -99,14 +99,15 @@ const App = () => {
           <p className="no-results">No items found. Try a different search.</p>
         )}
       {/* Load More Button */}
-      {visibleCount < filteredData.length && (
-        <button
-          className="load-more-btn"
-          onClick={() => setVisibleCount(prev => prev + 20)}
-        >
-          Load More
-        </button>
-      )}
+    {visibleCount < filteredData.length && (
+  <button
+    className="load-more-btn"
+    onClick={() => setVisibleCount(prev => prev + 20)}
+  >
+    Load More <span style={{ marginLeft: "5px" }}>→</span>
+  </button>
+)}
+
       </div>
 
     </div>
