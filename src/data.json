@@ -1038,5 +1038,70 @@
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "description": "EHR & Revenue Cycle Management software.",
     "connector": false
+  },
+   {
+    "name": "pVerify",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb548e3cb2cba82a33e5f_6400752c1247f20ce90734bc_pv-logo-hi-res_png.jpeg",
+    "url": "https://www.keragon.com/integrations/pverify",
+    "category": "Insurance-billing",
+    "tag": "Connector available",
+    "description": "Healthcare insurance verification and authorization.",
+    "connector": true
+  },
+      {
+    "name": "Eligible",
+    "tag": "Request Integration",
+    "category": "Insurance-billing",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Healthcare billing API integration service.",
+    "connector": false
+  },
+     {
+    "name": "Envi by IOS",
+    "tag": "Request Integration",
+    "category": "Insurance-billing",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Procure-to-pay software for healthcare facilities.",
+    "connector": false
+  },
+      {
+    "name": "Apero",
+    "tag": "Request Integration",
+    "category": "Insurance-billing",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "All-in-one billing & operations workflows.",
+    "connector": false
+  },
+    {
+    "name": "InstaMed",
+    "tag": "Request Integration",
+    "category": "Insurance-billing",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Healthcare payments platform for providers and patients.",
+    "connector": false
+  },
+    {
+    "name": "Salucro",
+    "tag": "Request Integration",
+    "category": "Insurance-billing",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Healthcare payment solutions and financial engagement.",
+    "connector": false
+  },
+   {
+    "name": "Opkit",
+    "tag": "Request Integration",
+    "category": "Insurance-billing",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Automates prior authorizations for healthcare providers.",
+    "connector": false
+  },
+   {
+    "name": "MedEvolve",
+    "tag": "Request Integration",
+    "category": "Insurance-billing",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Medical billing & RCM services for providers.",
+    "connector": false
   }
 ]
