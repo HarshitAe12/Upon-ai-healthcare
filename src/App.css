@@ -46,6 +46,24 @@
   font-size: 15px;
   transition: 0.2s ease;
 }
+.load-more-btn {
+  margin: 20px auto;
+  display: block;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.load-more-btn:hover {
+  background: #005fcc;
+  transform: translateY(-3px);
+}
 
 .search-input:focus {
   border-color: #007bff;

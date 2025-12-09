@@ -5,6 +5,8 @@ import data from "./data.json";
 const App = () => {
   const [filters, setFilters] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
+  const [visibleCount, setVisibleCount] = useState(20);
+
 
   const categories = [...new Set(data.map(item => item.category))];
 
@@ -73,7 +75,7 @@ useEffect(() => {
       {/* Cards */}
       <div className="cards-container">
         {filteredData.length > 0 ? (
-          filteredData.map(item => (
+          filteredData.slice(0, visibleCount).map(item => (
             <div
               className="card #button-o0UgIxf7i2"
               key={item.name}
@@ -89,6 +91,11 @@ useEffect(() => {
         ) : (
           <p className="no-results">No items found. Try a different search.</p>
         )}
+         {visibleCount < filteredData.length && (
+    <button className="load-more-btn" onClick={() => setVisibleCount(prev => prev + 20)}>
+      Load More
+    </button>
+  )}
       </div>
     </div>
   );
