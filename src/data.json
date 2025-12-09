@@ -161,7 +161,7 @@
     "description": "Dental practice management software.",
     "connector": true
   },
-   {
+  {
     "name": "pVerify",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb548e3cb2cba82a33e5f_6400752c1247f20ce90734bc_pv-logo-hi-res_png.jpeg",
     "url": "https://www.keragon.com/integrations/pverify",
@@ -224,7 +224,7 @@
     "description": "Simplifies ordering lab tests for healthcare providers.",
     "connector": true
   },
-   {
+  {
     "name": "Health Gorilla",
     "url": "https://www.keragon.com/integrations/health-gorilla",
     "category": "Labs-pharmacy",
@@ -350,7 +350,7 @@
     "description": "Digital health platform for patient management.",
     "connector": true
   },
-    {
+  {
     "name": "Cliniko",
     "url": "https://www.keragon.com/integrations/integrations/integrations/cliniko",
     "tag": "Connector available",
@@ -359,7 +359,7 @@
     "description": "Online booking & management for clinics.",
     "connector": true
   },
-   {
+  {
     "name": "Nextech",
     "url": "https://www.keragon.com/integrations/integrations/integrations/integrations/nextech",
     "tag": "Connector available",
@@ -368,7 +368,7 @@
     "description": "Electronic health records management system.",
     "connector": true
   },
-   {
+  {
     "name": "Oracle Cerner",
     "tag": "Request Integration",
     "category": "EHR",
@@ -376,7 +376,7 @@
     "description": "Leading EHR platform.",
     "connector": false
   },
-   {
+  {
     "name": "PDS MDSuite EHR",
     "tag": "Request Integration",
     "category": "EHR",
@@ -384,7 +384,7 @@
     "description": "EHR & PMS software.",
     "connector": false
   },
-   {
+  {
     "name": "InSync EHR",
     "tag": "Request Integration",
     "category": "EHR",
@@ -392,7 +392,7 @@
     "description": "EHR & PMS software.",
     "connector": false
   },
-    {
+  {
     "name": "Veradigm (Allscripts)",
     "tag": "Request Integration",
     "category": "EHR",
@@ -400,15 +400,657 @@
     "description": "Electronic health records management system.",
     "connector": false
   },
-     {
+  {
     "name": "Phorest",
     "tag": "Request Integration",
     "category": "EHR",
     "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f0961d9edc123e7b09b081_phorest.png",
     "description": "Salon & spa management software platform.",
     "connector": false
+  },
+  {
+    "name": "Practice Fusion",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR platform for medical practices.",
+    "connector": false
+  },
+  {
+    "name": "Amazing Charts",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede0b00d96f9a00876ff9_amazingcharts.png",
+    "description": "EHR for independent medical practices.",
+    "connector": false
+  },
+  {
+    "name": "Eyefinity",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede0c9a33270fb13ac58b_eyefinity.png",
+    "description": "Optometry practice management and EHR.",
+    "connector": false
+  },
+  {
+    "name": "Greenway",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Client-centric EHR & PMS.",
+    "connector": false
+  },
+  {
+    "name": "Net Health",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR software & healthcare analytics.",
+    "connector": false
+  },
+  {
+    "name": "PCIS GOLD",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Customizable EHR & PMS software.",
+    "connector": false
+  },
+  {
+    "name": "Azalea Health",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede34df72da575c304353_azaleahealth.png",
+    "description": "Provider-first cloud-based EHR.",
+    "connector": false
+  },
+  {
+    "name": "Dentrix",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Dental Practice Management Software.",
+    "connector": false
+  },
+  {
+    "name": "PrognoCIS",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EMR & practice management software.",
+    "connector": false
+  },
+  {
+    "name": "WebPT",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Cloud-based EHR for physical therapy.",
+    "connector": false
+  },
+  {
+    "name": "MEDHOST",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR for healthcare facilities.",
+    "connector": false
+  },
+  {
+    "name": "Nextgen",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR for physician groups with multiple providers.",
+    "connector": false
+  },
+  {
+    "name": "EHR Your Way",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Behavioral Health EHR.",
+    "connector": false
+  },
+  {
+    "name": "iSALUS",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "All-in-one EHR & PMS.",
+    "connector": false
+  },
+  {
+    "name": "MD Logic",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR, PMS & RM software.",
+    "connector": false
+  },
+  {
+    "name": "CureMD",
+    "url": "https://www.keragon.com/integrations/integrations/curemd",
+    "tag": "Connector available",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/68654067c30730980a519980_curemd.jpeg",
+    "description": "Specialty EHR & Practice Management.",
+    "connector": true
+  },
+  {
+    "name": "MEDITECH",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR for hospitals.",
+    "connector": false
+  },
+  {
+    "name": "CareCloud",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Modern EHR & healthcare solutions.",
+    "connector": false
+  },
+  {
+    "name": "nAbleMD",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Cloud and mobile practice software.",
+    "connector": false
+  },
+  {
+    "name": "Homecare Homebase",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfab8d35f4d668629bb6b_hchb.png",
+    "description": "Home Care Software for Nurses.",
+    "connector": false
+  },
+  {
+    "name": "WebChart",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac4d090917e348b7a65_webchartnow.png",
+    "description": "Web-based medical charting solution.",
+    "connector": false
+  },
+  {
+    "name": "Criterions",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac8fc3ef83af84e783b_criterions.png",
+    "description": "EHR & Medical Practice Management.",
+    "connector": false
+  },
+  {
+    "name": "Elekta MOSAIQ",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Radiation oncology patient management system.",
+    "connector": false
+  },
+  {
+    "name": "Juno Health EHR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR systems & solutions.",
+    "connector": false
+  },
+  {
+    "name": "Matrixcare",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfacfbd33a556840ec9a2_matrixcare.png",
+    "description": "EHR for home and long term care providers.",
+    "connector": false
+  },
+  {
+    "name": "Flatiron OncoEMR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfacfbd33a556840ec9a2_matrixcare.png",
+    "description": "EHR for cancer care.",
+    "connector": false
+  },
+  {
+    "name": "PracticePerfect",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfacfbd33a556840ec9a2_matrixcare.png",
+    "description": "All-in-one EMR & Practice Management.",
+    "connector": false
+  },
+  {
+    "name": "WRSHealth",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfacfbd33a556840ec9a2_matrixcare.png",
+    "description": "EHR & Practice Management Software.",
+    "connector": false
+  },
+  {
+    "name": "Revolution EHR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfacfbd33a556840ec9a2_matrixcare.png",
+    "description": "Cloud-based EHR for Optometry Practices.",
+    "connector": false
+  },
+  {
+    "name": "EZDERM",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfacfbd33a556840ec9a2_matrixcare.png",
+    "description": "EHR & PMS for dermatologists.",
+    "connector": false
+  },
+  {
+    "name": "RXNT",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfb319ddc7655400a294f_rxnt.png",
+    "description": "Cloud-based integrated health software.",
+    "connector": false
+  },
+  {
+    "name": "Compulink",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfb33dd14c76d64e07721_compulinkadvantage.png",
+    "description": "EHR and practice management software.",
+    "connector": false
+  },
+  {
+    "name": "Sevocity",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfb35bd33a556840f2710_sevocity.png",
+    "description": "Cloud-based EHR.",
+    "connector": false
+  },
+  {
+    "name": "AllegianceMD",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Cloud-based medical software for practices.",
+    "connector": false
+  },
+  {
+    "name": "Accuro EMR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Electronic Medical Records software provider.",
+    "connector": false
+  },
+  {
+    "name": "Medgen",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Cloud-based EHR software.",
+    "connector": false
+  },
+  {
+    "name": "Surgical Information Systems",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Surgical & Health Management Systems.",
+    "connector": false
+  },
+  {
+    "name": "Praxis EMR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Electronic Medical Records software provider.",
+    "connector": false
+  },
+  {
+    "name": "MdLand",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR and Patient Engagement.",
+    "connector": false
+  },
+  {
+    "name": "Medent",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Medical practice management software.",
+    "connector": false
+  },
+  {
+    "name": "Meditab IMS EHR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "All-in-one EHR & PMS.",
+    "connector": false
+  },
+  {
+    "name": "NetSmart",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR, RCM and Practice Management.",
+    "connector": false
+  },
+  {
+    "name": "Trimed Complete EHR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Medical software & services.",
+    "connector": false
+  },
+  {
+    "name": "Wellsky",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Healthcare software solutions provider.",
+    "connector": false
+  },
+  {
+    "name": "MacPractice",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Medical, dental and chiropractic software.",
+    "connector": false
+  },
+  {
+    "name": "ChiroTouch",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Chiropractic EHR & practice management software.",
+    "connector": false
+  },
+  {
+    "name": "Oystehr",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Developer-first headless EHR.",
+    "connector": false
+  },
+  {
+    "name": "OmniMD",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR software & medical billing services.",
+    "connector": false
+  },
+  {
+    "name": "ECLIPSE Chiropractic EHR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Chiropractic EHR & practice management software.",
+    "connector": false
+  },
+   {
+    "name": "Clinicomp",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Comprehensive EHR software.",
+    "connector": false
+  },
+   {
+    "name": "Clinicomp",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Comprehensive EHR software.",
+    "connector": false
+  },
+    {
+    "name": "CGM Aprima",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR and Practice Management.",
+    "connector": false
+  },
+    {
+    "name": "CollaborateMD",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Cloud-based Medical Practice Management.",
+    "connector": false
+  },
+      {
+    "name": "CollaborateMD",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Cloud-based Medical Practice Management.",
+    "connector": false
+  },
+    {
+    "name": "BestNotes",
+    "url": "https://www.keragon.com/integrations/bestnotes",
+    "tag": "Connector available",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/678fc821c6049d8530a67148_bestnotes.jpeg",
+    "description": "EHR and CRM software for behavioral health treatment.",
+    "connector": true
+  },
+      {
+    "name": "Ritten",
+    "url": "https://www.keragon.com/integrations/ritten",
+    "tag": "Connector available",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67b6c544deca8a0526328c99_Ritten-flower.png",
+    "description": "AI-powered EMR software for behavioral health.",
+    "connector": true
+  },
+      {
+    "name": "PtEverywhere",
+    "url": "https://www.keragon.com/integrations/pteverywhere",
+    "tag": "Connector available",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/68da7ea6298742119914a0d5_pteverywhere_logo.png",
+    "description": "EMR & Physical Therapy Practice Management Software",
+    "connector": true
+  },
+        {
+    "name": "Edvak",
+    "url": "https://www.keragon.com/integrations/pteverywhere",
+    "tag": "Connector available",
+    "category": "Patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6924321efc3a1ae1d351f744_edvak_logo.jpeg",
+    "description": "AI Assisted EHR & Practice Management Software ",
+    "connector": true
+  },
+    {
+    "name": "Symplast",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Practice management platform for plastic surgery.",
+    "connector": false
+  },
+    {
+    "name": "Experity",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Urgent Care EMR & PMS.",
+    "connector": false
+  },
+    {
+    "name": "Phoenix Ortho",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR for Orthopedic Practices.",
+    "connector": false
+  },
+     {
+    "name": "Altera Touchworks",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR for large ambulatory practices.",
+    "connector": false
+  },
+     {
+    "name": "Picis Surgery Management",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Patient Management for the Surgical Journey.",
+    "connector": false
+  },
+      {
+    "name": "Codonix",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede3b8065ef68e6a7042c_codonix.png",
+    "description": "EMR, Charting & Coding Software.",
+    "connector": false
+  },
+      {
+    "name": "AllMeds EMR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede3b8065ef68e6a7042c_codonix.png",
+    "description": "EMR for Surgical Specialists.",
+    "connector": false
+  },
+     {
+    "name": "Clinix",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede3b8065ef68e6a7042c_codonix.png",
+    "description": "Medical practice management software.",
+    "connector": false
+  },
+      {
+    "name": "eIVF",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede3b8065ef68e6a7042c_codonix.png",
+    "description": "Fertility practice management EMR.",
+    "connector": false
+  },
+        {
+    "name": "McKesson",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede3b8065ef68e6a7042c_codonix.png",
+    "description": "Medical supplies, pharmacy services & specialty EHR.",
+    "connector": false
+  },
+       {
+    "name": "Advanced Data Systems",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac24069edc876a95b04_adsc.png",
+    "description": "EHR & Practice Management Software.",
+    "connector": false
+  },
+     {
+    "name": "Benchmark EHR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac24069edc876a95b04_adsc.png",
+    "description": "Patient-first healthcare solutions.",
+    "connector": false
+  },
+      {
+    "name": "Glenwood GlaceEMR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac24069edc876a95b04_adsc.png",
+    "description": "EHR and Practice Management.",
+    "connector": false
+  },
+     {
+    "name": "Renesan",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac24069edc876a95b04_adsc.png",
+    "description": "Renal EHR software.",
+    "connector": false
+  },
+     {
+    "name": "FirstCloudEMR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac24069edc876a95b04_adsc.png",
+    "description": "Cloud-based electronic medical record software.",
+    "connector": false
+  },
+     {
+    "name": "Champ Software Nightingale Notes",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac24069edc876a95b04_adsc.png",
+    "description": "EHR software for public health documentation.",
+    "connector": false
+  },
+    {
+    "name": "Mellowood IDEAS EMR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac24069edc876a95b04_adsc.png",
+    "description": "Fertility practice management EMR.",
+    "connector": false
+  },
+     {
+    "name": "Thornberry nDoc",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfac24069edc876a95b04_adsc.png",
+    "description": "Home Health and Hospice EMR.",
+    "connector": false
+  },
+     {
+    "name": "HENO",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660bfbcc51790ce7aba590dd_heno.png",
+    "description": "EMR software for medical practices.",
+    "connector": false
+  },
+      {
+    "name": "Osmind",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Phychiatry and Mental Health EHR.",
+    "connector": false
+  },
+      {
+    "name": "Clinicient",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EMR & Rehab Therapy Software.",
+    "connector": false
+  },
+      {
+    "name": "TruBridge",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR & Revenue Cycle Management software.",
+    "connector": false
   }
-  
-
-
 ]
