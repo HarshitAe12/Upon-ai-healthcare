@@ -10,7 +10,19 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
-    <script src="https://api.omniengaged.com/widget/form/diUUAhbLOQC5yry4dtg4"></script>
+    <!-- <script src="https://api.omniengaged.com/widget/form/diUUAhbLOQC5yry4dtg4"></script> -->
+     <script src="https://client.leadconnectorhq.com/js/form_embed.js" defer></script>
+     <script>
+  window.addEventListener("load", () => {
+    if (window?.LeadConnector?.initPopupForm) {
+      window.LeadConnector.initPopupForm("diUUAhbLOQC5yry4dtg4");
+    } else {
+      console.warn("LeadConnector didn't initialize.");
+    }
+  });
+</script>
+
+
 
   </body>
 </html>
