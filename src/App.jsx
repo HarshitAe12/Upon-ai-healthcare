@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./App.css";
 import data from "./data.json";
 
@@ -15,6 +15,15 @@ const App = () => {
         : [...prev, category]
     );
   };
+useEffect(() => {
+  const interval = setInterval(() => {
+    const height = document.body.scrollHeight;
+    window.parent.postMessage({ height }, "*");
+  }, 400);
+
+  return () => clearInterval(interval);
+}, []);
+
 
   const handleCardClick = (item) => {
     if (item.connector === false) {
