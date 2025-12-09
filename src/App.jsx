@@ -16,14 +16,12 @@ const App = () => {
   };
   const handleCardClick = (item) => {
   if (item.connector === false) {
-    // Open GHL form
-    if (window?.LeadConnector?.openPopupForm) {
-      window.LeadConnector.openPopupForm("diUUAhbLOQC5yry4dtg4");
-    } else {
-      console.warn("GHL form script not loaded yet.");
-    }
+     window.parent.postMessage(
+      { openGHL: true, itemName: item.name }, 
+    )
+   
   } else {
-    // Redirect normally
+   
     window.open(item.url, "_blank");
   }
 };
