@@ -7,7 +7,6 @@ const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleCount, setVisibleCount] = useState(20);
 
-
   const categories = [...new Set(data.map(item => item.category))];
 
   const toggleFilter = (category) => {
@@ -17,15 +16,21 @@ const App = () => {
         : [...prev, category]
     );
   };
-useEffect(() => {
-  const interval = setInterval(() => {
-    const height = document.body.scrollHeight;
-    window.parent.postMessage({ height }, "*");
-  }, 400);
 
-  return () => clearInterval(interval);
-}, []);
+  // Auto resize to parent
+  useEffect(() => {
+    const interval = setInterval(() => {
+      const height = document.body.scrollHeight;
+      window.parent.postMessage({ height }, "*");
+    }, 400);
 
+    return () => clearInterval(interval);
+  }, []);
+
+  // Reset visible items when filters or search changes
+  useEffect(() => {
+    setVisibleCount(20);
+  }, [filters, searchTerm]);
 
   const handleCardClick = (item) => {
     if (item.connector === false) {
@@ -39,19 +44,20 @@ useEffect(() => {
   };
 
   const filteredData = data.filter(item => {
-    const matchesFilter = filters.length === 0 || filters.includes(item.category);
-    const matchesSearch = item.name.toLowerCase().includes(searchTerm.toLowerCase().trim());
+    const matchesFilter =
+      filters.length === 0 || filters.includes(item.category);
+    const matchesSearch =
+      item.name.toLowerCase().includes(searchTerm.toLowerCase().trim());
     return matchesFilter && matchesSearch;
   });
 
   return (
     <div className="filter-layout">
-
       {/* Sidebar */}
       <aside className="sidebar">
         <h3>Filters</h3>
 
-        {/* Styled Search Bar */}
+        {/* Search Input */}
         <input
           type="text"
           placeholder="🔍 Search by name..."
@@ -60,6 +66,7 @@ useEffect(() => {
           className="search-input"
         />
 
+        {/* Category Filters */}
         {categories.map(category => (
           <label key={category} className="category">
             <input
@@ -77,7 +84,7 @@ useEffect(() => {
         {filteredData.length > 0 ? (
           filteredData.slice(0, visibleCount).map(item => (
             <div
-              className="card #button-o0UgIxf7i2"
+              className="card"
               key={item.name}
               onClick={() => handleCardClick(item)}
               style={{ cursor: "pointer" }}
@@ -91,12 +98,17 @@ useEffect(() => {
         ) : (
           <p className="no-results">No items found. Try a different search.</p>
         )}
-         {visibleCount < filteredData.length && (
-    <button className="load-more-btn" onClick={() => setVisibleCount(prev => prev + 20)}>
-      Load More
-    </button>
-  )}
+      {/* Load More Button */}
+      {visibleCount < filteredData.length && (
+        <button
+          className="load-more-btn"
+          onClick={() => setVisibleCount(prev => prev + 20)}
+        >
+          Load More
+        </button>
+      )}
       </div>
+
     </div>
   );
 };
