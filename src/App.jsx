@@ -14,6 +14,20 @@ const App = () => {
         : [...prev, category]
     );
   };
+  const handleCardClick = (item) => {
+  if (item.connector === false) {
+    // Open GHL form
+    if (window?.LeadConnector?.openPopupForm) {
+      window.LeadConnector.openPopupForm("diUUAhbLOQC5yry4dtg4");
+    } else {
+      console.warn("GHL form script not loaded yet.");
+    }
+  } else {
+    // Redirect normally
+    window.open(item.url, "_blank");
+  }
+};
+
 
   const filteredData =
     filters.length === 0 ? data : data.filter(item => filters.includes(item.category));
@@ -39,14 +53,20 @@ const App = () => {
       {/* Cards */}
       <div className="cards-container">
         {filteredData.map(item => (
-          <a className="card" key={item.name} href={item.url} target="_blank">
+          <div
+            className="card"
+            key={item.name}
+            onClick={() => handleCardClick(item)}
+            style={{ cursor: "pointer" }}
+          >
             <img src={item.img} alt={item.name} />
             <h4>{item.name}</h4>
             <p>{item.description}</p>
-             <span className="tag">{item.tag}</span>
-          </a>
+            <span className="tag">{item.tag}</span>
+          </div>
         ))}
       </div>
+
 
     </div>
   );
