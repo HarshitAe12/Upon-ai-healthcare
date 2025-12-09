@@ -1103,5 +1103,201 @@
     "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
     "description": "Medical billing & RCM services for providers.",
     "connector": false
-  }
+  },
+  {
+    "name": "Everywell",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/635a651dde4d8a36d2e17ee6_6357d833c4ffa528601abc42_426765_logo_everlywell.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "At-home health testing kits.",
+    "connector": false
+  },
+    {
+    "name": "Labcorp",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67a74dfcc221c78d1b0760de_labcorp.svg",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Health diagnostics and lab testing services.",
+    "connector": false
+  },
+     {
+    "name": "Quest Diagnostics",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Medical lab services and diagnostic testing.",
+    "connector": false
+  },
+       {
+    "name": "Ordrs",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Lab testing software.",
+    "connector": false
+  },
+        {
+    "name": "PillPack",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Full-service online pharmacy.",
+    "connector": false
+  },
+        {
+    "name": "Truepill",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "B2B Pharmacy.",
+    "connector": false
+  },
+        {
+    "name": "Junction",
+     "url": "https://www.keragon.com/integrations/junction",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6814d88a3e6057fe513cfefd_JunctionIconPurple.png",
+    "category": "Labs-pharmacy",
+    "tag": "Connector available",
+    "description": "Nationwide lab testing & device data platform",
+    "connector": true
+  },
+      {
+    "name": "DHA Laboratory",
+         "url": "https://www.keragon.com/integrations/dha-laboratory",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682df63314d17cf6232cca93_dha%20lab%20logo.jpeg",
+    "category": "Labs-pharmacy",
+    "tag": "Connector available",
+    "description": "Diagnostic laboratory services provider.",
+    "connector": true
+  },
+      {
+    "name": "MediCircle",
+     "url": "https://www.keragon.com/integrations/medicircle",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682f0785228026cc9d0d146d_MediCircle%20Logo.jpeg",
+    "category": "Labs-pharmacy",
+    "tag": "Connector available",
+    "description": "Cancer drug donation and redistribution platform",
+    "connector": true
+  },
+      {
+    "name": "MediCircle",
+     "url": "https://www.keragon.com/integrations/medicircle",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682f0785228026cc9d0d146d_MediCircle%20Logo.jpeg",
+    "category": "Labs-pharmacy",
+    "tag": "Connector available",
+    "description": "Cancer drug donation and redistribution platform",
+    "connector": true
+  },
+         {
+    "name": "Curexa",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Online pharmacy and healthcare services provider.",
+    "connector": false
+  },
+         {
+    "name": "DoseSpot",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "E-prescribing software for healthcare providers.",
+    "connector": false
+  },
+          {
+    "name": "Getlabs",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Mobile lab testing service.",
+    "connector": false
+  },
+         {
+    "name": "NimbleRx",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Online prescription delivery service.",
+    "connector": false
+  },
+          {
+    "name": "CareSend",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Secure document delivery for healthcare professionals.",
+    "connector": false
+  },
+           {
+    "name": "Medmo",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Medical imaging scheduling and cost comparison platform.",
+    "connector": false
+  },
+            {
+    "name": "Alto Pharmacy",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Alto is a full-service pharmacy that delivers prescr...",
+    "connector": false
+  },
+             {
+    "name": "Tomorrow Health",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Home medical equipment and care coordination.",
+    "connector": false
+  },
+               {
+    "name": "LetsGetChecked",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb41d4e0928296af83e77_64007e445886227ed26d755f_lets.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Prescription delivery and pharmacy services.",
+    "connector": false
+  },
+                {
+    "name": "Akumin",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb4b94aadb3a714abdf24_64007e9c2bd1b6f69e813d24_akumin.jpeg",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Medical imaging and radiology services provider.",
+    "connector": false
+  },
+               {
+    "name": "TridentCare",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Mobile diagnostic services and medical care.",
+    "connector": false
+  },
+               {
+    "name": "CaryRx",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Online pharmacy providing delivery services.",
+    "connector": false
+  },
+               {
+    "name": "Orchard LIS",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Laboratory Information Systems provider.",
+    "connector": false
+  },
+               {
+    "name": "DNAvisit",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "category": "Labs-pharmacy",
+    "tag": "Request Integration",
+    "description": "Genetic ancestry & health insights platform.",
+    "connector": false
+  },
 ]
