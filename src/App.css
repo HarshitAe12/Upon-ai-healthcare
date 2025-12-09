@@ -13,7 +13,7 @@
   padding: 20px;
   background: #fff;
   border-radius: 12px;
-  height: fit-content;
+  height: auto; /* ensures auto expand */
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
   position: sticky;
   top: 20px;
@@ -59,8 +59,9 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 25px;
-  height: auto;
-  overflow: visible;
+  width: 100%;
+  height: auto; /* ensure cards grow */
+  overflow: unset; /* remove scroll */
 }
 
 /* CARD STYLE */
@@ -124,7 +125,7 @@
   }
 
   .sidebar {
-    width: 100%;
+    width: 80%;
     position: relative;
     top: unset;
   }
@@ -144,12 +145,20 @@
   }
 
   .search-input {
+    width: 95%;
     font-size: 14px;
     padding: 8px;
   }
 }
+/* FORCE 1 CARD PER ROW IN MOBILE VIEW */
+@media (max-width: 600px) {
+  .cards-container {
+    grid-template-columns: 1fr !important;
+  }
+}
 
-/* Hidden utility */
+
+/* UTILITY */
 .hidden {
   display: none !important;
 }
