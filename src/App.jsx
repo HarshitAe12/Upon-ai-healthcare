@@ -16,9 +16,11 @@ const App = () => {
   };
   const handleCardClick = (item) => {
   if (item.connector === false) {
-     window.parent.postMessage(
-      { openGHL: true, itemName: item.name }, 
-    )
+    window.parent.postMessage(
+  { openGHL: true, itemName: item.name },
+  "*" // or the exact origin of the parent
+);
+
    
   } else {
    
