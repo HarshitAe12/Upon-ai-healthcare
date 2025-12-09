@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Athenahealth",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c069fc3adb3b3ca0e2708_athenahealth.png",
+    "url": "https://www.keragon.com/integrations/athenahealth",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Cloud-based EHR for private practices.",
+    "connector": true
+  },
+  {
+    "name": "Canvas Medical",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c0708eebc6492c2454c66_canvasmedical.png",
+    "url": "https://www.keragon.com/integrations/canvas-medical",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "EMR Development and Payments software.",
+    "connector": true
+  },
+  {
+    "name": "DrChrono",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c06cddcfbbd17026c965c_drchrono.png",
+    "url": "https://www.keragon.com/integrations/drchrono",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "EHR & medical billing software.",
+    "connector": true
+  },
+  {
+    "name": "Elation",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c06d0be18a976e12c0fa5_elationhealth.png",
+    "url": "https://www.keragon.com/integrations/elation",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Clinical-first EHR platform.",
+    "connector": true
+  },
+  {
+    "name": "Healthie",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c06b0ac32276e2397f9d8_gethealthie.png",
+    "url": "https://www.keragon.com/integrations/healthie",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "HIPAA-compliant EHR and Engagement software.",
+    "connector": true
+  },
+  {
+    "name": "ModMed",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c0697fdcb1fed8c7117e5_modmed.png",
+    "url": "https://www.keragon.com/integrations/modmed",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Specialty EHR platform.",
+    "connector": true
+  },
+  {
+    "name": "Practice EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c06047ac551ee1a2426d4_practiceEHR.png",
+    "url": "https://www.keragon.com/integrations/practice-EHR",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Cloud-based EHR for medical practices.",
+    "connector": true
+  },
+  {
+    "name": "Tebra (Kareo)",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c0657c3adb3b3ca0dd33f_tebra.png",
+    "url": "https://www.keragon.com/integrations/kareo",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Cloud-based medical billing & EHR software services.",
+    "connector": true
+  },
+  {
+    "name": "IntakeQ / PracticeQ",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65de2b122d0600cbf8031279_intakeq.png",
+    "url": "https://www.keragon.com/integrations/intakeq-practiceq",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Online intake and practice management software.",
+    "connector": true
+  },
+  {
+    "name": "Zenoti EMR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65de2b112c9d2fe1442f8734_zenoti.png",
+    "url": "https://www.keragon.com/integrations/zenoti-emr",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Medical spa management software.",
+    "connector": true
+  },
+  {
+    "name": "AdvancedMD",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f095fdbdd3ea6829e8d423_advancedmd.png",
+    "url": "https://www.keragon.com/integrations/advancedmd",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Medical practice management software.",
+    "connector": true
+  },
+  {
+    "name": "Charm EMR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c0638aa5fee6cea93266f_charmhealth.png",
+    "url": "https://www.keragon.com/integrations/charm-emr",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "EHR, PMS & Revenue Cycle Management software.",
+    "connector": true
+  },
+  {
+    "name": "Practice Better",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65e8b77310e0cada8f42b825_Unnamed-attachment.png",
+    "url": "https://www.keragon.com/integrations/practicebetter",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Health & wellness practice management platform.",
+    "connector": true
+  },
+  {
+    "name": "OpenPractice's OpenPM",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/678fdd682b01e47a8d4cc4da_openpractice.jpeg",
+    "url": "https://www.keragon.com/integrations/openpractice-openpm",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "EMR & Medical Billing Software.",
+    "connector": true
+  },
+  {
+    "name": "OpenEMR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65fede2bae2e67da7e682058_open-emr.png",
+    "url": "https://www.keragon.com/integrations/openemr",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Open-source medical practice management.",
+    "connector": true
+  },
+  {
+    "name": "Cerbo",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67aee5881fceba8e24e3194b_cerbo_logo_square.svg",
+    "url": "https://www.keragon.com/integrations/cerbo",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "HIPAA-compliant EHR.",
+    "connector": true
+  },
+  {
+    "name": "PatientNow",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/66dc44ddf407cb68f3d03f1c_image.jpeg",
+    "url": "https://www.keragon.com/integrations/patientnow",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Medical practice management software.",
+    "connector": true
+  },
+  {
+    "name": "Open Dental",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/678fc8000335a11bba0ec163_opendental.jpeg",
+    "url": "https://www.keragon.com/integrations/opendental",
+    "category": "EHR",
+    "tag": "Connector available",
+    "description": "Dental practice management software.",
+    "connector": true
+  },
+   {
+    "name": "pVerify",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb548e3cb2cba82a33e5f_6400752c1247f20ce90734bc_pv-logo-hi-res_png.jpeg",
+    "url": "https://www.keragon.com/integrations/pverify",
+    "category": "insurance-billing",
+    "tag": "Connector available",
+    "description": "Healthcare insurance verification and authorization.",
+    "connector": true
+  },
+  {
+    "name": "AgencyBloc",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/66dc453379be76475947a4ae_img.jpeg",
+    "url": "https://www.keragon.com/integrations/agencybloc",
+    "category": "insurance-billing",
+    "tag": "Connector available",
+    "description": "Insurance agency management software.",
+    "connector": true
+  },
+  {
+    "name": "Candidhealth",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67ac440572589e033c0fada2_candid_health_logo.jpeg",
+    "url": "https://www.keragon.com/integrations/candidhealth",
+    "category": "insurance-billing",
+    "tag": "Connector available",
+    "description": "Revenue cycle automation platform.",
+    "connector": true
+  },
+  {
+    "name": "Balance (billing)",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "url": "https://www.keragon.com/integrations/balance-billing-ec2cd",
+    "category": "insurance-billing",
+    "tag": "Connector available",
+    "description": "Invoice & payment management software.",
+    "connector": true
+  },
+  {
+    "name": "Bill",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682f2ce453f4135e399b5985_Bill%20Sqaure%20logo.png",
+    "url": "https://www.keragon.com/integrations/bill",
+    "category": "insurance-billing",
+    "tag": "Connector available",
+    "description": "Cloud-based financial operations platform",
+    "connector": true
+  },
+  {
+    "name": "Fullscript",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6853df13056eaf78bbec072d_download%20(1).png",
+    "url": "https://www.keragon.com/integrations/fullscript",
+    "category": "labs-pharmacy",
+    "tag": "Connector available",
+    "description": "Online dispensary for health & wellness supplements.",
+    "connector": true
+  },
+  {
+    "name": "Rupa Health",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb46fd876ef5f7a21fc76_6400775c7efc0c2f6cbab12b_rupa.jpeg",
+    "url": "https://www.keragon.com/integrations/rupa-health",
+    "category": "labs-pharmacy",
+    "tag": "Connector available",
+    "description": "Simplifies ordering lab tests for healthcare providers.",
+    "connector": true
+  },
+   {
+    "name": "Health Gorilla",
+    "url": "https://www.keragon.com/integrations/health-gorilla",
+    "category": "labs-pharmacy",
+    "tag": "Connector available",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/677fced48294d8fdb2482f7a_655d622cda16f9cfd90031f2_Health%20Gorilla%20logomark_standard.png",
+    "description": "Healthcare data aggregation platform.",
+    "connector": true
+  },
+  {
+    "name": "Photon Health",
+    "url": "https://www.keragon.com/integrations/photon-health",
+    "tag": "Connector available",
+    "category": "labs-pharmacy",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65bcb49d5e7068d5bf556470_64f990cf012119ea611b106d_p-icon-dark.png",
+    "description": "Modern prescribing tools.",
+    "connector": true
+  },
+  {
+    "name": "DRX",
+    "url": "https://www.keragon.com/integrations/drx",
+    "tag": "Connector available",
+    "category": "labs-pharmacy",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67f7a2bf0e375402024f771c_DRX%20pharmacy%20logo.jpeg",
+    "description": "​Cloud-based pharmacy management platform",
+    "connector": true
+  },
+  {
+    "name": "Junction",
+    "url": "https://www.keragon.com/integrations/junction",
+    "tag": "Connector available",
+    "category": "labs-pharmacy",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6814d88a3e6057fe513cfefd_JunctionIconPurple.png",
+    "description": "Nationwide lab testing & device data platform",
+    "connector": true
+  },
+  {
+    "name": "DHA Laboratory",
+    "url": "https://www.keragon.com/integrations/dha-laboratory",
+    "tag": "Connector available",
+    "category": "labs-pharmacy",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682df63314d17cf6232cca93_dha%20lab%20logo.jpeg",
+    "description": "Diagnostic laboratory services provider.",
+    "connector": true
+  },
+  {
+    "name": "MediCircle",
+    "url": "https://www.keragon.com/integrations/medicircle",
+    "tag": "Connector available",
+    "category": "labs-pharmacy",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/682f0785228026cc9d0d146d_MediCircle%20Logo.jpeg",
+    "description": "Cancer drug donation and redistribution platform",
+    "connector": true
+  },
+  {
+    "name": "Tellescope",
+    "url": "https://www.keragon.com/integrations/tellescope",
+    "tag": "Connector available",
+    "category": "patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/660c05e3822c3c7963fe3eda_tellescope.png",
+    "description": "Patient Relationship Management platform.",
+    "connector": true
+  },
+  {
+    "name": "Braze",
+    "url": "https://www.keragon.com/integrations/braze",
+    "tag": "Connector available",
+    "category": "patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/66dc4501b800c544bc2abee6_image.jpeg",
+    "description": "Customer engagement platform.",
+    "connector": true
+  },
+  {
+    "name": "Zocdoc",
+    "url": "https://www.keragon.com/integrations/zocdoc",
+    "tag": "Connector available",
+    "category": "patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/67fd033be3bc311e2f3eca2a_zee_rgb.png",
+    "description": "Book doctor appointments online easily.",
+    "connector": true
+  },
+  {
+    "name": "Office Ally's Intake Pro",
+    "url": "https://www.keragon.com/integrations/officeally-intakepro",
+    "tag": "Connector available",
+    "category": "patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f2d020760386ccf72c257b_officeally.png",
+    "description": "Online patient intake & management.",
+    "connector": true
+  },
+  {
+    "name": "GatherUp",
+    "url": "https://www.keragon.com/integrations/gatherup",
+    "tag": "Connector available",
+    "category": "patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/66dc44bdc9315c427efc901f_image.jpeg",
+    "description": "Collect and manage customer reviews.",
+    "connector": true
+  },
+  {
+    "name": "Qualiphy",
+    "url": "https://www.keragon.com/integrations/qualiphy",
+    "tag": "Connector available",
+    "category": "patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6924340fc3e129e3c6081ddd_qualiphy_logo.png",
+    "description": "On-demand telehealth for MedSpas & clinics",
+    "connector": true
+  },
+  {
+    "name": "Nexhealth",
+    "url": "https://www.keragon.com/integrations/qualiphy",
+    "tag": "Connector available",
+    "category": "patient-engagement",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/686fd6b0939372c053a25f2b_download%20(1).png",
+    "description": "Healthcare management and patient communication platform.",
+    "connector": true
+  },
+  {
+    "name": "Welkin Health",
+    "url": "https://www.keragon.com/integrations/integrations/welkin-health",
+    "tag": "Connector available",
+    "category": "ECR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6751b017bf96a9449f232b3a_welkinhealth.jpeg",
+    "description": "Digital health platform for patient management.",
+    "connector": true
+  },
+    {
+    "name": "Cliniko",
+    "url": "https://www.keragon.com/integrations/integrations/integrations/cliniko",
+    "tag": "Connector available",
+    "category": "ECR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/678fdd524f5c3ace7fe5c93a_cliniko.jpeg",
+    "description": "Online booking & management for clinics.",
+    "connector": true
+  },
+   {
+    "name": "Nextech",
+    "url": "https://www.keragon.com/integrations/integrations/integrations/integrations/nextech",
+    "tag": "Connector available",
+    "category": "ECR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/6901f00376ab784740247725_nextech.png",
+    "description": "Electronic health records management system.",
+    "connector": true
+  },
+   {
+    "name": "Oracle Cerner",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Leading EHR platform.",
+    "connector": false
+  },
+   {
+    "name": "PDS MDSuite EHR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR & PMS software.",
+    "connector": false
+  },
+   {
+    "name": "InSync EHR",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "EHR & PMS software.",
+    "connector": false
+  },
+    {
+    "name": "Veradigm (Allscripts)",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Electronic health records management system.",
+    "connector": false
+  },
+      {
+    "name": "Veradigm (Allscripts)",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/63510a2aca87d1e52f9f91e9/65ddf585f256deeb162e14c1_default_sp.png",
+    "description": "Electronic health records management system.",
+    "connector": false
+  },
+     {
+    "name": "Phorest",
+    "tag": "Request Integration",
+    "category": "EHR",
+    "img": "https://cdn.prod.website-files.com/635637c5d13ee9bd2b5feb65/65f0961d9edc123e7b09b081_phorest.png",
+    "description": "Salon & spa management software platform.",
+    "connector": false
+  }
+  
+
+
+]
