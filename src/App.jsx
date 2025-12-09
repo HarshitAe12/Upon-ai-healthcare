@@ -54,7 +54,7 @@ const App = () => {
       <div className="cards-container">
         {filteredData.map(item => (
           <div
-            className="card"
+            className="card #button-o0UgIxf7i2"
             key={item.name}
             onClick={() => handleCardClick(item)}
             style={{ cursor: "pointer" }}
